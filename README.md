@@ -1,2 +1,2 @@
 # zzhuchkanRepository
-Aleksandr Zhuchkan's Repository
+zzhuchkan's Repository
